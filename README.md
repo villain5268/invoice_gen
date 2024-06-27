@@ -1,3 +1,5 @@
+DESCRIPTION - React JS application to programmatically generate invoices for orders placed on an e-commerce platform. The invoice will include placeholders for the company logo, seller details, place of supply, billing and shipping details, order and invoice details, and item details. Key parameters will be derived, such as net amount, tax type, tax amount, and total amount, with the invoice format matching a provided image. The signature image will be included for the authorized signatory. The implementation will involve constructing an HTML file to accommodate inputs and derived parameters, ensuring scalability and robust error handling. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
